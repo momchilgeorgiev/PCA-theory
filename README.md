@@ -16,7 +16,7 @@ This notebook is mainly designed for people who have **just started** studying p
 With that out of the way. Enjoy!
 
 
-# Contents (Rest of the project is in PCA.ipynb):
+# Contents:
 
 ## 1. Project Motive
 
@@ -43,4 +43,6 @@ With that out of the way. Enjoy!
 ## 5. References
 
 ## 6. Bibliography
+
+\>  Rest of the project is in PCA.ipynb
 
