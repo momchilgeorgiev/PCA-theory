@@ -43,3 +43,4 @@ With that out of the way. Enjoy!
 
 #### 6. Bibliography
  
+Rest of the project is in PCA.ipynb ;)
