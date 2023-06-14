@@ -16,14 +16,15 @@ This notebook is mainly designed for people who have **just started** studying p
 With that out of the way. Enjoy!
 
 
-## Contents:
+## Contents (Rest of the project is in PCA.ipynb):
 
 #### 1. Project Motive
+
 #### 2. PCA and the theory behind it:
 
-    - Standardize the data
+2.1 Standardize the data
 
-        - Calculating the mean
+2.1.1 Calculating the mean
 
 2.1.2 Calculating the variance
 
@@ -31,10 +32,10 @@ With that out of the way. Enjoy!
 
 2.2 Eigenvectors and eigenvalues of the covariance matrix
 
-    
 #### 3. Some other examples of PCA:
 
 3.1 Breast cancer dataset
+
 3.2 Eigenfaces
 
 #### 4. Conclusion
@@ -43,5 +44,3 @@ With that out of the way. Enjoy!
 
 #### 6. Bibliography
 
- 
-Rest of the project is in PCA.ipynb
