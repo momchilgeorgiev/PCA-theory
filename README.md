@@ -21,26 +21,27 @@ With that out of the way. Enjoy!
 #### 1. Project Motive
 #### 2. PCA and the theory behind it:
 
-    2.1. Standardize the data
+2.1. Standardize the data
 
-        2.1.1 Calculating the mean
+2.1.1 Calculating the mean
 
-        2.1.2 Calculating the variance
+2.1.2 Calculating the variance
 
-        2.1.3 Calculating standard deviation 
+2.1.3 Calculating standard deviation 
 
-    2.2 Eigenvectors and eigenvalues of the covariance matrix
+2.2 Eigenvectors and eigenvalues of the covariance matrix
 
     
 #### 3. Some other examples of PCA:
 
-    3.1 Breast cancer dataset
-    3.2 Eigenfaces
+3.1 Breast cancer dataset
+3.2 Eigenfaces
 
 #### 4. Conclusion
     
 #### 5. References
 
 #### 6. Bibliography
+
  
-Rest of the project is in PCA.ipynb ;)
+> Rest of the project is in PCA.ipynb
