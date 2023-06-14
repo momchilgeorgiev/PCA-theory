@@ -24,11 +24,11 @@ With that out of the way. Enjoy!
 
 ### 2.1 Standardize the data
 
-### 2.1.1 Calculating the mean
+#### 2.1.1 Calculating the mean
 
-### 2.1.2 Calculating the variance
+#### 2.1.2 Calculating the variance
 
-### 2.1.3 Calculating standard deviation 
+#### 2.1.3 Calculating standard deviation 
 
 ### 2.2 Eigenvectors and eigenvalues of the covariance matrix
 
