@@ -21,9 +21,9 @@ With that out of the way. Enjoy!
 #### 1. Project Motive
 #### 2. PCA and the theory behind it:
 
-2.1. Standardize the data
+    - Standardize the data
 
-2.1.1 Calculating the mean
+        - Calculating the mean
 
 2.1.2 Calculating the variance
 
@@ -44,4 +44,4 @@ With that out of the way. Enjoy!
 #### 6. Bibliography
 
  
-> Rest of the project is in PCA.ipynb
+Rest of the project is in PCA.ipynb
