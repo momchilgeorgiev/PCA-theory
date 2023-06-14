@@ -8,6 +8,14 @@
 
 ###### *Every work cited in this project has been acquired legally through public domains such as university websites, online publications and personal/company blogs.*
 
+### Description
+During my course in data science I had the pleasure to work on a short project about PCA. I wanted to share what I have done and perhaps "shine a little light" on the subject while giving my own spin. 
+
+This notebook is mainly designed for people who have **just started** studying programming and data science. I have tried to explain everything as simple as I can and if it gets technical - there are always sources to read that explain it in more detail.
+
+With that out of the way. Enjoy!
+
+
 ## Contents:
 
 #### 1. Project Motive
@@ -35,8 +43,3 @@
 
 #### 6. Bibliography
  
- During my course in data science I had the pleasure to work on a short project about PCA. I wanted to share what I have done and perhaps "shine a little light" on the subject while giving my own spin. 
-
-This notebook is mainly designed for people who have **just started** studying programming and data science. I have tried to explain everything as simple as I can and if it gets technical - there are always sources to read that explain it in more detail.
-
-With that out of the way. Enjoy!
